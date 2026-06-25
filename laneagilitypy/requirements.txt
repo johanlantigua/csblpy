@@ -1,0 +1,5 @@
+openpyxl
+Pillow
+pyfirmata
+pyserial
+pyinstaller

@@ -1,0 +1,45 @@
+Privacy Policy for CSBL Agility
+
+Effective Date: June 25, 2026
+
+CSBL Agility is a local desktop application for collecting lane agility timing data from an Arduino-connected sensor system.
+
+Information Collected
+
+The app may collect or display the following information entered or generated during use:
+
+- Player number entered by the user
+- Arduino COM port entered by the user
+- Sampling duration entered by the user
+- Sensor voltage readings from the Arduino
+- Selected first and second time points
+- Calculated measured time
+- Date and time of the test
+
+How Information Is Used
+
+This information is used only to run the lane agility test, display the measurement graph, calculate timing results, and export an Excel file when the user chooses to export data.
+
+Data Storage
+
+CSBL Agility stores exported test results only when the user clicks Export Data. Exported files are saved locally on the user's computer as Excel files. The app does not automatically upload data to any server or cloud service.
+
+Data Sharing
+
+CSBL Agility does not sell, share, or transmit user data to third parties. The app does not include advertising, analytics, tracking, or telemetry.
+
+Network Access
+
+CSBL Agility does not require internet access for normal operation. The app communicates locally with an Arduino device through the selected COM port.
+
+Children's Privacy
+
+The app is intended for use in supervised educational, research, or lab settings. If player numbers or test results identify minors, the organization using the app is responsible for handling that information according to its own privacy, consent, and data protection policies.
+
+User Control
+
+Users control when data is collected and when data is exported. Users may delete exported Excel files from their computer at any time.
+
+Contact
+
+For questions about this privacy policy or the use of CSBL Agility, contact the organization or lab distributing the application.

@@ -1,0 +1,17 @@
+# Python cache/build output
+__pycache__/
+*.py[cod]
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Local MATLAB Engine copy created during troubleshooting
+matlab_engine_python_src/
+
+# Local app/build logs
+*.log
+
+# Arduino firmware backups are local recovery files
+*.hex
